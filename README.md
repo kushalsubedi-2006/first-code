@@ -1,4 +1,4 @@
 # first-code
 this is my first git repository.
 <br>
-Author- kushal subedi
+Author- kushal subedi (student)
